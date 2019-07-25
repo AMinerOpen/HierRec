@@ -10,7 +10,7 @@ Explore hierarchical relation from raw text.
 
 * First, you have raw text corpus.
 
-Using [AWOE](https://github.com/AMinerOpen/AWOE) to extract keywords from documents. And generate a json line file similar to [this file](http://lfs.aminer.cn/awoe/data.zip), where each line contains a json with key words of a document and some other information. Unzip and put it in the *data/* folder.
+Using [AWOE](https://github.com/AMinerOpen/AWOE) to extract keywords from documents. And generate a json line file similar to [this file](http://lfs.aminer.cn/misc/awoe/data.zip), where each line contains a json with key words of a document and some other information. Unzip and put it in the *data/* folder.
 
 * Second, find potential hierarchy with keyword jl file.
 
